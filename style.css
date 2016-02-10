@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  background-color: yellow;
+  font: Tahoma 2em;
+}
+/* оформляем абзацы текста: */
+p {
+  color: grey;
+  line-height: 150%;
+}
